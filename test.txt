@@ -1,7 +1,0 @@
-total 16
-drwxrwxr-x  3 fire fire 4096  4月 14 22:44 .
-drwxr-xr-x 23 fire fire 4096  4月 14 21:58 ..
-drwxrwxr-x  8 fire fire 4096  4月 14 22:37 .git
--rw-rw-r--  1 fire fire    0  4月 14 22:33 license
--rw-rw-r--  1 fire fire  136  4月 14 22:34 readme.txt
--rw-rw-r--  1 fire fire    0  4月 14 22:45 test.txt
